@@ -1,0 +1,1879 @@
+[33mcommit 68d9e8b6e4f9252dbf6ba17a70d9ffad90647a70[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: salluzziluca <salluzzi.luca@gmail.com>
+Date:   Thu Mar 14 18:57:28 2024 -0300
+
+    avanzar
+
+[33mcommit 4fdfbf66a75abe9b3ad56c610b3ea8dd4f3361ac[m
+Author: salluzziluca <salluzzi.luca@gmail.com>
+Date:   Thu Mar 14 15:14:17 2024 -0300
+
+    terminar funciones e ifs
+
+[33mcommit 7ded9b53be0625e7b8f119409c0bddfa39b1d872[m
+Author: salluzziluca <salluzzi.luca@gmail.com>
+Date:   Thu Mar 14 14:52:23 2024 -0300
+
+    terminar lso de funcs
+
+[33mcommit 9a743f80c57cc6bf27819589a8ddb5a5579ab1a4[m[33m ([m[1;33mtag: 5.6.1[m[33m)[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 18 10:16:05 2023 +0200
+
+    release: 5.6.1
+
+[33mcommit 170aaabe9b87a8a5edf382d6f3adda0ffa3df20e[m
+Merge: ef122c9 0ee9c5b
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 10:07:39 2023 +0200
+
+    Merge pull request #1673 from husjon/fix-enums3-formatting
+    
+    Fixed formatting of `enums3` with rustfmt
+
+[33mcommit ef122c9973885b7d2687744bdb7a6b6369e54c7c[m
+Merge: 2e48fe9 8e8c74c
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 10:06:13 2023 +0200
+
+    Merge pull request #1681 from rust-lang/all-contributors/add-jurglic
+    
+    docs: add jurglic as a contributor for content
+
+[33mcommit 8e8c74c6c03017a9d0bbb089354b50a2a143e2fa[m[33m ([m[1;31morigin/all-contributors/add-jurglic[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 18 08:05:52 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit a38840ae92969fff2e972311ea797a3434c269b9[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 18 08:05:51 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 2e48fe9cc7f2f3b2b48545ceea073294bc8d9125[m
+Merge: 3b451e4 a0699bd
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 10:05:37 2023 +0200
+
+    Merge pull request #1675 from jurglic/fix-rand-typo
+    
+    fix: test name typo
+
+[33mcommit 3b451e4ab124bf419baad993f268a5ff8cbb0894[m
+Merge: 0807353 746180b
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 10:03:57 2023 +0200
+
+    Merge pull request #1680 from rust-lang/all-contributors/add-krmpotic
+    
+    docs: add krmpotic as a contributor for content
+
+[33mcommit 746180b153744c63fa57783b1bb7db61fb6caa7d[m[33m ([m[1;31morigin/all-contributors/add-krmpotic[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 18 08:03:49 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 62415f758b40ff8bd027ca1ec493bfd4904e848a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 18 08:03:48 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 0807353bf0283f85625481827d9f442a1b2dd8c2[m
+Merge: a808cf7 eb84eaf
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 10:03:35 2023 +0200
+
+    Merge pull request #1678 from krmpotic/main
+    
+    remove hint comments when no hint exists
+
+[33mcommit a808cf71a3a46d755640ca259f769af58ac1af3f[m
+Merge: 51c8da0 8716558
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 18 09:54:20 2023 +0200
+
+    Merge pull request #1679 from rust-lang/revert-1620-fix_1611
+    
+    Revert "Fix 1611"
+
+[33mcommit 8716558696cc4149220a5bd67b7dd9c8e883e731[m[33m ([m[1;31morigin/revert-1620-fix_1611[m[33m)[m
+Author: liv <shadows@with.al>
+Date:   Mon Sep 18 09:54:08 2023 +0200
+
+    Revert "Fix 1611"
+
+[33mcommit eb84eaf15123acb5c014ef579a480984a543e26c[m
+Author: Luka Krmpotic <luka.krmpotic@gmail.com>
+Date:   Fri Sep 15 22:29:55 2023 +0200
+
+    remove hint comments when no hint exists
+
+[33mcommit a0699bd91765c0702d925de6a176f4bdabdfd8d7[m
+Author: Jurglic <jurglic@gmail.com>
+Date:   Thu Sep 14 17:10:06 2023 +0200
+
+    fix: test name typo
+
+[33mcommit 0ee9c5b776cf5d196013fb49d885c4dd67e8cd98[m
+Author: Jon Erling Hustadnes <JonErling.Hustadnes@gmail.com>
+Date:   Wed Sep 13 20:26:47 2023 +0200
+
+    Fixed formatting with rust-analyzer
+
+[33mcommit 51c8da06b0bfe5d0c7de5408a1017627a286b7e5[m
+Merge: edb8813 95640cb
+Author: liv <mokou@fastmail.com>
+Date:   Tue Sep 12 10:57:20 2023 +0200
+
+    Merge pull request #1672 from rust-lang/all-contributors/add-CobaltCause
+    
+    docs: add CobaltCause as a contributor for infra
+
+[33mcommit 95640cba232aadf5c12c25d0acc94f24b5ee0191[m[33m ([m[1;31morigin/all-contributors/add-CobaltCause[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Sep 12 08:57:12 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 241889159ad80e5a5ed636a9e071fb598e366627[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Sep 12 08:57:11 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit edb8813cc716330b9a89b33907899e426c8fe73f[m
+Merge: d52ce2d 4a1290c
+Author: liv <mokou@fastmail.com>
+Date:   Tue Sep 12 10:56:54 2023 +0200
+
+    Merge pull request #1671 from CobaltCause/nix-flake-update
+    
+    chore: update flake.lock
+
+[33mcommit 4a1290cb669fe324439c8a58a4437f141f5b1641[m
+Author: Charles Hall <charles@computer.surgery>
+Date:   Mon Sep 11 19:56:25 2023 -0700
+
+    chore: update flake.lock
+    
+    Flake lock file updates:
+    
+    • Updated input 'flake-compat':
+        'github:edolstra/flake-compat/b4a34015c698c7793d592d66adbab377907a2be8' (2022-04-19)
+      → 'github:edolstra/flake-compat/35bb57c0c8d8b62bbfd284272c928ceb64ddbde9' (2023-01-17)
+    • Updated input 'flake-utils':
+        'github:numtide/flake-utils/c0e246b9b83f637f4681389ecabcb2681b4f3af0' (2022-08-07)
+      → 'github:numtide/flake-utils/f9e7cf818399d17d347f847525c5a5a8032e4e44' (2023-08-23)
+    • Added input 'flake-utils/systems':
+        'github:nix-systems/default/da67096a3b9bf56a91d16901293e51ba5b49a27e' (2023-04-09)
+    • Updated input 'nixpkgs':
+        'github:nixos/nixpkgs/b39fd6e4edef83cb4a135ebef98751ce23becc33' (2022-10-24)
+      → 'github:nixos/nixpkgs/db9208ab987cdeeedf78ad9b4cf3c55f5ebd269b' (2023-09-08)
+
+[33mcommit d52ce2d354c48167a40d35aeef4a1e2d2338d6b9[m
+Merge: e12504a b33ef03
+Author: liv <mokou@fastmail.com>
+Date:   Sat Sep 9 14:58:45 2023 +0200
+
+    Merge pull request #1670 from rust-lang/all-contributors/add-husjon
+    
+    docs: add husjon as a contributor for content
+
+[33mcommit b33ef03ac6ef38a31d5c22583b9eeaf71ee4acc6[m[33m ([m[1;31morigin/all-contributors/add-husjon[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sat Sep 9 12:58:36 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit dceba07e829ab27c95600696b9972f8f82fb954d[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sat Sep 9 12:58:35 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit e12504a61d5fe193236a414378bc25c9ba77c19c[m
+Merge: 9de22c9 a5e4133
+Author: liv <mokou@fastmail.com>
+Date:   Sat Sep 9 14:58:14 2023 +0200
+
+    Merge pull request #1667 from husjon/update-primitive_types3-requirement
+    
+    Make `primitive_types3` require at least 100 elements
+
+[33mcommit 9de22c9afa873a1a88d424007ed0f66cc6a22403[m
+Merge: 9dc8f13 e17d603
+Author: liv <mokou@fastmail.com>
+Date:   Sat Sep 9 01:23:54 2023 +0200
+
+    Merge pull request #1669 from rust-lang/all-contributors/add-ob
+    
+    docs: add ob as a contributor for content
+
+[33mcommit e17d603201458029defd88ebf61e24ed2e639bfb[m[33m ([m[1;31morigin/all-contributors/add-ob[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Fri Sep 8 23:23:32 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 47fbd6d16045023121672b8792764a5c6c6d3e01[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Fri Sep 8 23:23:31 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 9dc8f139250ae98eff263609e8a30e650afecd54[m
+Merge: 4d04aad 33a4f4e
+Author: liv <mokou@fastmail.com>
+Date:   Sat Sep 9 01:23:15 2023 +0200
+
+    Merge pull request #1668 from ob/ob/fix-bug
+    
+    Fix compiler error and clarify instructions
+
+[33mcommit 33a4f4e454031ea7b318c855625553b413b8afcd[m
+Author: Oscar Bonilla <6f6231@gmail.com>
+Date:   Fri Sep 8 09:49:11 2023 -0700
+
+    Fix compiler error and clarify instructions
+
+[33mcommit a5e41335161601acc3e86e0b9425c66c9af354c3[m
+Author: Jon Erling Hustadnes <jonerling.hustadnes@gmail.com>
+Date:   Fri Sep 8 16:42:16 2023 +0200
+
+    Make primitive_types3 require at least 100 elements
+    
+    Made the function panic if it's not long enough
+
+[33mcommit 4d04aad8902262d73d05b066ef0b8ffcd4fb634d[m
+Merge: 847b574 193b600
+Author: liv <mokou@fastmail.com>
+Date:   Wed Sep 6 09:31:46 2023 +0200
+
+    Merge pull request #1641 from mo8it/move-semantics5-test
+    
+    Convert exercises with assertions to tests
+
+[33mcommit 847b57423f2a2500b666ec0085cbd897b7b7139f[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 15:26:22 2023 +0200
+
+    update for page build
+
+[33mcommit 58cabf2ebd9092fecab3cfe75c16cad08591eeec[m[33m ([m[1;33mtag: 5.6.0[m[33m)[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 15:23:04 2023 +0200
+
+    release: 5.6.0
+
+[33mcommit ae28d2fa2de620d368d06d62065bbbacf115855d[m
+Merge: 3ad3030 de45998
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 15:02:14 2023 +0200
+
+    Merge pull request #1665 from rust-lang/chore/better-ci
+    
+    chore: consolidate CI workflows
+
+[33mcommit de45998f69ac95cd81175fef9e054c2c77ce82ab[m[33m ([m[1;31morigin/chore/better-ci[m[33m)[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 15:02:02 2023 +0200
+
+    chore: remove argh
+
+[33mcommit 0d36050b364a2dfa342d4c00f820e67c38738726[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 14:58:13 2023 +0200
+
+    chore: remove link checker
+
+[33mcommit f31a18429b051c265a3ffcdc1888dd4053e6a572[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 14:57:16 2023 +0200
+
+    chore: consolidate CI workflows
+
+[33mcommit 3ad30308ec39dc6f108493fdca7dd133a8b28b8e[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 14:50:31 2023 +0200
+
+    feat: add oranda deploy workflow
+
+[33mcommit 6c0c397507dd2e244167654f5ee46b68b5921a37[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 14:49:52 2023 +0200
+
+    fix: absolut-ize readme links
+
+[33mcommit 42da308140ed6951ce1d90ca3f9a7d4d4c7f1dc9[m
+Merge: 14fbdd2 680a32a
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:39:54 2023 +0200
+
+    Merge pull request #1664 from rust-lang/all-contributors/add-Jak-Ch-ll
+    
+    docs: add Jak-Ch-ll as a contributor for content
+
+[33mcommit 680a32a85c265b81ab7b84a79e90b677482ff170[m[33m ([m[1;31morigin/all-contributors/add-Jak-Ch-ll[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:39:46 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 951dde4e949f6c176c11dd77dcb1a9021f2fdcbf[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:39:45 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 14fbdd20ac53e0226ad4ac28a1642946a89471bc[m
+Merge: a5fe578 ad0fad4
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:39:28 2023 +0200
+
+    Merge pull request #1473 from Jak-Ch-ll/update-hints-for-vecs2
+    
+    docs(vecs2): update hints
+
+[33mcommit ad0fad4218d0baa9f6cb24d3292637d0f21aac52[m
+Merge: 8cb5cba a5fe578
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:39:16 2023 +0200
+
+    Merge branch 'main' into update-hints-for-vecs2
+
+[33mcommit a5fe578e79914faf932cb8cd2d200a12d9e1af39[m
+Merge: 992e516 d552579
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:38:06 2023 +0200
+
+    Merge pull request #1663 from rust-lang/all-contributors/add-pksadiq
+    
+    docs: add pksadiq as a contributor for content
+
+[33mcommit d5525794f893714a01ccb28be24d84e1c992a64c[m[33m ([m[1;31morigin/all-contributors/add-pksadiq[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:37:58 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 3f7ef6fe33ac5e898115157e249802f7f8511843[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:37:56 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 992e5163d3c53ce51131e950e5cc97a165c5b358[m
+Merge: d03f624 c5231f0
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:37:44 2023 +0200
+
+    Merge pull request #1565 from pksadiq/fix-enum3-message-modification
+    
+    fix(enums3): modify message string in test
+
+[33mcommit d03f624357b2d258b5dff2c2e71a25a8e9a4fabb[m
+Merge: c57ad35 b547321
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:35:42 2023 +0200
+
+    Merge pull request #1662 from rust-lang/all-contributors/add-bean5
+    
+    docs: add bean5 as a contributor for content
+
+[33mcommit b5473218685fef0d4ef027ce5781aeb8efa71ac1[m[33m ([m[1;31morigin/all-contributors/add-bean5[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:35:35 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 9a0e5bd00355d56527ab9cb04c0bede2d117bbfc[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:35:34 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit c57ad35e5bea45049f416f418cbcad75f2d66add[m
+Merge: f7ef198 15ae83f
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:35:15 2023 +0200
+
+    Merge pull request #1477 from bean5/main
+    
+    small changes to a few README files
+
+[33mcommit f7ef198e3a3cf0bedfacd507fa1ad57699f6ac16[m
+Merge: 630cbf8 fcac2b5
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:34:46 2023 +0200
+
+    Merge pull request #1661 from rust-lang/all-contributors/add-willhack
+    
+    docs: add willhack as a contributor for content
+
+[33mcommit fcac2b553cef016344196019949f3ed27144d25a[m[33m ([m[1;31morigin/all-contributors/add-willhack[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:34:38 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit e8c2d27b4af5d385ecad7d22cbf5763099e15f41[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 12:34:37 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 630cbf8f85a440763221c1c4223dd46f3c7cc47a[m
+Merge: abc3013 0aa9418
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:34:20 2023 +0200
+
+    Merge pull request #1587 from willhack/chore/update-hints
+    
+    chore: update line reference in strings2 hint
+
+[33mcommit 0aa941873662918aef679bd77b8b7bd6b1a23ec3[m
+Merge: 37cdea9 abc3013
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:34:13 2023 +0200
+
+    Merge branch 'main' into chore/update-hints
+
+[33mcommit abc3013096f20a41009086c0f5ccb1b2b13abf12[m
+Merge: 6eb9bde 51e237d
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 14:32:01 2023 +0200
+
+    Merge pull request #1660 from rust-lang/fix/move-semantics-tests
+    
+    fix: refactor move semantics 1-4 into tests
+
+[33mcommit 51e237d5f97610294798710ef8ba5349c2fd50c7[m[33m ([m[1;31morigin/fix/move-semantics-tests[m[33m)[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 14:20:37 2023 +0200
+
+    fix: refactor move semantics 1-4 into tests
+
+[33mcommit 6eb9bde786eb855b4f8e1db13e3f62b98a5ad65d[m
+Merge: 4d9b68b dce89ae
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:58:37 2023 +0200
+
+    Merge pull request #1659 from rust-lang/all-contributors/add-yamila-moreno
+    
+    docs: add yamila-moreno as a contributor for content
+
+[33mcommit dce89aefb99bc6d774c98e45121989253fa8c5a3[m[33m ([m[1;31morigin/all-contributors/add-yamila-moreno[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:58:25 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 47e14cff8da2de6f5bb2d328ac56275e65d00dde[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:58:24 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 4d9b68b377044fa4d0cf636440da22f18cf85c67[m
+Merge: a8f4994 662e5bd
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:58:05 2023 +0200
+
+    Merge pull request #1598 from yamila-moreno/fix/hint-in-primitives-4
+    
+    fix(primitives-4.rs): update hint so it's less confusing
+
+[33mcommit a8f49949356b2bb38e7d685366901b4629a830d2[m
+Merge: 849e4a3 8ca60f2
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:55:38 2023 +0200
+
+    Merge pull request #1658 from rust-lang/all-contributors/add-szabgab
+    
+    docs: add szabgab as a contributor for content
+
+[33mcommit 8ca60f2cbbe635d921b471f0e9b7965e000e7a08[m[33m ([m[1;31morigin/all-contributors/add-szabgab[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:55:28 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit bb550497d5211ff71d1fa4867a4e4ce2e1a67d04[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:55:27 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 849e4a36476a392d337943fd9b087fed0bf30330[m
+Merge: c177507 7f9f897
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:55:10 2023 +0200
+
+    Merge pull request #1599 from szabgab/if1-test-case
+    
+    add test-case to if/if1 to check equal values
+
+[33mcommit c177507db39286a3a22b2c2337e66f2b68cb8318[m
+Merge: a26c396 a09a0c4
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:54:20 2023 +0200
+
+    Merge pull request #1610 from jrcarl624/patch-1
+    
+    Updated if3.rs: Added a note that states that the test does not need to be changed.
+
+[33mcommit a09a0c47aec37215ed3ff5260ee77f732fc866de[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Sep 4 13:53:54 2023 +0200
+
+    fix: add extra line in if3 comment
+
+[33mcommit a26c39633598ac35a12083ccb6422b4e4be68c2f[m
+Merge: 6378c2a 4aa5ca2
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:52:22 2023 +0200
+
+    Merge pull request #1657 from rust-lang/all-contributors/add-mkovaxx
+    
+    docs: add mkovaxx as a contributor for content
+
+[33mcommit 4aa5ca28183eb76b4e06bd6cfcfe1c0a80a93e48[m[33m ([m[1;31morigin/all-contributors/add-mkovaxx[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:52:13 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 27881a83d4b569871845261d57c9a65d0b1be440[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:52:11 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 6378c2a81fe24c1fe9e5cd30967c8eda41ec3030[m
+Merge: 45cadcf 720f33e
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:51:57 2023 +0200
+
+    Merge pull request #1620 from mkovaxx/fix_1611
+    
+    Fix 1611
+
+[33mcommit 45cadcf02093ce2641db24360bc0a85abbb7c112[m
+Merge: 4de3b4a 7d53abd
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:46:50 2023 +0200
+
+    Merge pull request #1656 from rust-lang/all-contributors/add-gabay
+    
+    docs: add gabay as a contributor for content
+
+[33mcommit 7d53abdb0af4771ccb0917550636ef2e4100bb80[m[33m ([m[1;31morigin/all-contributors/add-gabay[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:46:42 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit a059ded709b838a62dc2544553d749409e0c0b7e[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:46:41 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 4de3b4a635e56181f50f8a74c8873b3da3c3105c[m
+Merge: 64162d3 af76794
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:46:28 2023 +0200
+
+    Merge pull request #1630 from gabay/chore/threads2-text
+    
+    info.toml: update threads2 text.
+
+[33mcommit 64162d3a24e6d7d56cca8d5662fe13f061316b8c[m
+Merge: 626e274 013f22c
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:42:52 2023 +0200
+
+    Merge pull request #1649 from x10an14/main
+    
+    improvement(development): Add nix-direnv integration
+
+[33mcommit 626e2749a6d635f5cb3d9a81f249c9e12638d950[m
+Merge: b39d896 60b8487
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:41:37 2023 +0200
+
+    Merge pull request #1650 from x10an14/fork/add-flake-outputs
+    
+    feat(flake): Add defaults to commands in flake
+
+[33mcommit b39d896db764289bdd3c782ad0d7c46eec05d91e[m
+Merge: e57797a 4a96992
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:37:20 2023 +0200
+
+    Merge pull request #1655 from rust-lang/all-contributors/add-x10an14
+    
+    docs: add x10an14 as a contributor for infra
+
+[33mcommit 4a9699226a1777a5a98cb37eaf1b09e3d2427d6f[m[33m ([m[1;31morigin/all-contributors/add-x10an14[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:37:10 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 11f4ec93aceab5491e57cf10390b6838baaa2f98[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Sep 4 11:37:09 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit e57797a8ffb7069368d24be604a64ca7cab716b0[m
+Merge: 0b7975b e7bdc83
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:36:24 2023 +0200
+
+    Merge pull request #1653 from x10an14/fork/fix-nix-build-of-reset-test
+    
+    fix(nix/tests): Add `git` to Nix's rust build/test sandbox
+
+[33mcommit 0b7975b19556e99ac53490e48dff0245ea55a2e3[m
+Merge: 2d1da2a 362318a
+Author: liv <mokou@fastmail.com>
+Date:   Mon Sep 4 13:35:33 2023 +0200
+
+    Merge pull request #1633 from mo8it/clap
+    
+    Port to Clap
+
+[33mcommit 362318a6e04a1ffa80fe85e1f4c1cf03686d1109[m[33m ([m[1;31morigin/clap[m[33m)[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sat Aug 26 00:00:56 2023 +0200
+
+    Adapt tests
+
+[33mcommit 5a93f2a4f14d83d34aac69254262da7aaa5b752c[m
+Author: mo8it <mo8it@proton.me>
+Date:   Fri Aug 25 23:18:01 2023 +0200
+
+    Port to Clap
+
+[33mcommit e7bdc83a8f910b239a0d910410a9c95ff5fd99d3[m
+Author: x10an14 <x10an14@users.noreply.github.com>
+Date:   Wed Aug 30 19:41:29 2023 +0200
+
+    fix(nix/tests): Add `git` to Nix's rust build/test sandbox
+    
+    The integration test `reset_single_exercise` depends on Git...
+
+[33mcommit 60b848760033ee3f7a6522929f7b4aa21064c5e2[m
+Author: x10an14 <x10an14@users.noreply.github.com>
+Date:   Wed Aug 30 18:09:41 2023 +0200
+
+    feat(flake): Add defaults to commands in flake
+    
+    So that:
+    - `nix build .#`, and
+    - `nix run .#` both work.
+
+[33mcommit 013f22c89cba7dbd935b58392a1a7d8cdcdc7eb7[m
+Author: x10an14 <x10an14@users.noreply.github.com>
+Date:   Wed Aug 30 18:03:45 2023 +0200
+
+    improvement(development): Add nix-direnv integration
+    
+    So as to automatically open a nix devShell for those who use direnv/want to use direnv to make their lives more automated.
+
+[33mcommit 2d1da2ab57080e32725612ffddb82006f47f7f71[m
+Merge: d79984d 9c0581b
+Author: liv <mokou@fastmail.com>
+Date:   Tue Aug 29 10:20:36 2023 +0200
+
+    Merge pull request #1645 from mo8it/prober-types-structs3
+    
+    Use u32 instead of i32
+
+[33mcommit 9c0581bc0faea12b790e0fa0cafe8d08a5ed028e[m
+Author: mo8it <mo8it@proton.me>
+Date:   Tue Aug 29 00:52:11 2023 +0200
+
+    Use u32 instead of i32
+
+[33mcommit d79984dbda5cab0da778d2af27239e25e5f084a1[m
+Merge: c2eaa8f 571bab2
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 28 13:38:21 2023 +0200
+
+    Merge pull request #1637 from mo8it/fix-warnings
+    
+    Run clippy --fix
+
+[33mcommit c2eaa8f0192ac49ef4d224dac82d3130299a7618[m
+Merge: 6c51719 3cc9be0
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 28 13:38:02 2023 +0200
+
+    Merge pull request #1638 from mo8it/fix-line-numbers
+    
+    Avoid line numbers in hints
+
+[33mcommit 6c517199bf0c24195d18172139644d8f214d6e74[m
+Merge: c1051f3 d258c30
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 28 13:37:42 2023 +0200
+
+    Merge pull request #1644 from rust-lang/all-contributors/add-mo8it
+    
+    docs: add mo8it as a contributor for code
+
+[33mcommit d258c30406ff17cb06b18128eac8eff44a594e99[m[33m ([m[1;31morigin/all-contributors/add-mo8it[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Aug 28 11:37:34 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 7bb69f864188906b3731725df08157131bfe9e57[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Aug 28 11:37:33 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit c1051f3f5254038dbd2f4b4dabfb6a6386fea39a[m
+Merge: c663f06 c0b8af2
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 28 13:37:20 2023 +0200
+
+    Merge pull request #1639 from mo8it/update-deps
+    
+    Update deps
+
+[33mcommit 193b600382ead22a24d2c26ca3a9117e7ad18be8[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sun Aug 27 01:06:01 2023 +0200
+
+    Convert other exercises that have assertions to test mode
+
+[33mcommit 16936d95d13df800f06c7af22069b5daf0c672e4[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sun Aug 27 00:47:03 2023 +0200
+
+    Fix typo
+
+[33mcommit 64224d3918820ebcdd2ee23fe2e7678f94573345[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sun Aug 27 00:46:48 2023 +0200
+
+    Make move_semantics5 a test
+
+[33mcommit c0b8af2c42c5e116cb9f91b42da4dd5d92baeaed[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sat Aug 26 23:35:07 2023 +0200
+
+    Fix indicatif
+
+[33mcommit c655612d2d151cbde90a8d054f3b72df2d5d7b59[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sat Aug 26 23:34:40 2023 +0200
+
+    Update deps
+
+[33mcommit 3cc9be0d115c8fd614dff9ab982c84c3d645173c[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sat Aug 26 23:25:12 2023 +0200
+
+    Avoid line numbers in hints
+
+[33mcommit 571bab20c1136adf1443b0fc1778341e923e06e5[m
+Author: mo8it <mo8it@proton.me>
+Date:   Sat Aug 26 23:07:20 2023 +0200
+
+    Run clippy --fix
+
+[33mcommit c663f06669f5075806a2aff9f946a2d4463d1eeb[m
+Merge: 38b4327 77f0e17
+Author: liv <mokou@fastmail.com>
+Date:   Sat Aug 26 22:27:41 2023 +0200
+
+    Merge pull request #1636 from rust-lang/all-contributors/add-eLVas
+    
+    docs: add eLVas as a contributor for content
+
+[33mcommit 77f0e177e67bddd3e5ed5a3460800cb1749e6b94[m[33m ([m[1;31morigin/all-contributors/add-eLVas[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sat Aug 26 20:27:33 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit e7ad540618048d4f4c1fee9666a7d49df0ccaed3[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sat Aug 26 20:27:32 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 38b4327f41ec8c5e1421b57dc78cac4062534678[m
+Merge: 464cb55 fa0463b
+Author: liv <mokou@fastmail.com>
+Date:   Sat Aug 26 22:27:18 2023 +0200
+
+    Merge pull request #1632 from eLVas/main
+    
+    fix(errors1): change Result to Option in exersise description
+
+[33mcommit fa0463b3b219f3d10e8ae2e04bc9fbb67e360e9b[m
+Author: Ivan Vasiunyk <i.vasiunyk@gmail.com>
+Date:   Fri Aug 25 21:49:22 2023 +0200
+
+    fix(errors1): change Result to Option in exersise description
+
+[33mcommit af76794627ac9252650c8d3ec41d9afe251ca5e5[m
+Author: Roi Gabay <gabay@users.noreply.github.com>
+Date:   Sun Aug 20 21:09:10 2023 +0300
+
+    info.toml: update threads2 text.
+    
+    the previous text does not appear in the provided link (https://doc.rust-lang.org/book/ch16-03-shared-state.html#atomic-reference-counting-with-arct).
+
+[33mcommit 464cb5566d9e36bf6f8ccf83a105097bce91ad4d[m
+Merge: da395fe d670847
+Author: liv <mokou@fastmail.com>
+Date:   Tue Aug 15 11:20:10 2023 +0200
+
+    Merge pull request #1625 from rust-lang/all-contributors/add-shirts
+    
+    docs: add shirts as a contributor for content
+
+[33mcommit d67084730841399466089b867bc41f780e8c0281[m[33m ([m[1;31morigin/all-contributors/add-shirts[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Aug 15 09:20:02 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 33a45d0f898317dbbb7bc9e9e057f54c36b62471[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Aug 15 09:20:01 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit da395fed20510ba3d76f25165e5aa2b31f5c50c8[m
+Merge: 64035f7 ad1c29c
+Author: liv <mokou@fastmail.com>
+Date:   Tue Aug 15 11:19:43 2023 +0200
+
+    Merge pull request #1624 from shirts/shirts/errors-2-comments
+    
+    Fix comment in errors2
+
+[33mcommit ad1c29c512cbd39c05ebd07b9013f08fe8721017[m
+Author: Kevin C <kchandler@costar.com>
+Date:   Mon Aug 14 12:49:28 2023 -0700
+
+    Fix comment in errors2
+
+[33mcommit 720f33eee642eafab3c03bc7caed5f8690b481e8[m
+Author: Mate Kovacs <mkovaxx@gmail.com>
+Date:   Thu Aug 10 19:56:47 2023 +0900
+
+    add .to_mut() in test owned_mutation()
+
+[33mcommit 64035f766fe7e363ab73dba3483f688a94595a90[m
+Merge: b64aa99 1ace979
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 7 17:40:45 2023 +0200
+
+    Merge pull request #1618 from rust-lang/all-contributors/add-barlevalon
+    
+    docs: add barlevalon as a contributor for content
+
+[33mcommit 1ace9795f728562fecc548858172320d65c2029e[m[33m ([m[1;31morigin/all-contributors/add-barlevalon[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Aug 7 15:38:52 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 24c838bc0b8bbcc8d61d1af4fc611a7d1c7fbe80[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Aug 7 15:38:51 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit b64aa9993b080f8603eddc79555537807272bb99[m
+Merge: 11d8aea 2691a35
+Author: liv <mokou@fastmail.com>
+Date:   Mon Aug 7 17:38:37 2023 +0200
+
+    Merge pull request #1617 from barlevalon/from_into_tests_fix
+    
+    fix(conversions/from_into.rs): test_trailing_comma() and test_trailing_comma_and_some_string()
+
+[33mcommit 2691a35102b0eab111706da0c27fc39541b64e0c[m
+Author: Alon Hearter <alon.hearter@gmail.com>
+Date:   Mon Aug 7 18:22:49 2023 +0300
+
+    Fix from_into.rs tests
+
+[33mcommit 828e7246598d2d55ea4b379194120367163e397e[m
+Author: Joshua Carlson <61999256+jrcarl624@users.noreply.github.com>
+Date:   Tue Aug 1 13:33:32 2023 -0400
+
+    Added note related to tests.
+
+[33mcommit 11d8aea96f2c744d970ed1ffb38785cf5b511e5e[m
+Merge: 4d26307 62adbdf
+Author: liv <mokou@fastmail.com>
+Date:   Tue Aug 1 10:50:22 2023 +0200
+
+    Merge pull request #1609 from rust-lang/all-contributors/add-softarn
+    
+    docs: add softarn as a contributor for content
+
+[33mcommit 62adbdf7f2d32981e3c44792008c23e5ac700739[m[33m ([m[1;31morigin/all-contributors/add-softarn[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Aug 1 08:50:14 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit f39df76215fb06013e3d2fbbaf1b709de4729867[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Aug 1 08:50:13 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 4d26307cfcef1f49022902e3cefb7e0f337a46f1[m
+Merge: 4592b4c be8d1df
+Author: liv <mokou@fastmail.com>
+Date:   Tue Aug 1 10:49:55 2023 +0200
+
+    Merge pull request #1607 from softarn/main
+    
+    chore(errors4): improved comment
+
+[33mcommit be8d1df8b90ad6f15c529e8460a6de72bba52de3[m
+Author: Marcus Höjvall <softarn@gmail.com>
+Date:   Fri Jul 28 23:05:01 2023 +0200
+
+    chore(errors4): improved comment
+
+[33mcommit 4592b4c409b3152a801a39a9278db6cbb583fa3c[m
+Merge: 478e9d6 bb5fa3f
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jul 24 10:29:34 2023 +0200
+
+    Merge pull request #1603 from rust-lang/all-contributors/add-alexfertel
+    
+    docs: add alexfertel as a contributor for content
+
+[33mcommit bb5fa3f1e8b867f03d5db4d6ab53a1fdfdfad062[m[33m ([m[1;31morigin/all-contributors/add-alexfertel[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jul 24 08:29:18 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 8283ae8c4c90acde71a98037107b018ec8fc454b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jul 24 08:29:17 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 478e9d67df69aac2316f16d468a5829318b381c6[m
+Merge: b949422 ef8f1f1
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jul 24 10:29:00 2023 +0200
+
+    Merge pull request #1601 from alexfertel/patch-1
+    
+    docs: dedup repeated sentence
+
+[33mcommit ef8f1f108ba2ed109eea93684ea29861085cea31[m
+Author: Alexander González <alexfertel97@gmail.com>
+Date:   Fri Jul 21 14:42:19 2023 +0200
+
+    docs: dedup repeated sentence
+
+[33mcommit 7f9f897945fbe764b240d51389cf933488b74910[m
+Author: Gabor Szabo <gabor@szabgab.com>
+Date:   Thu Jul 20 08:28:18 2023 +0300
+
+    add test-case to if/if1 to check equal values
+
+[33mcommit 662e5bddd7faf7ba383d964ef3c6a2d33168e66c[m
+Author: Yamila Moreno <yamila.ms@gmail.com>
+Date:   Mon Jul 17 15:58:29 2023 +0200
+
+    fix(primitives-4.rs): update hint so it's less confusing
+
+[33mcommit b949422d46e7890c577de15ddc4703d9fbf1b3dc[m
+Merge: 13bbe9c 2c7dec7
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jul 17 12:31:25 2023 +0200
+
+    Merge pull request #1597 from rust-lang/all-contributors/add-johnDeSilencio
+    
+    docs: add johnDeSilencio as a contributor for code
+
+[33mcommit 2c7dec73275a12f8e47e0f60c2f1686e579bdc7a[m[33m ([m[1;31morigin/all-contributors/add-johnDeSilencio[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jul 17 10:31:16 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit f4d86f384c396ed0741e93f71c314c5ed503f12c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jul 17 10:31:15 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 13bbe9c07df178b6b12db25f988a146c0d4c0f4a[m
+Merge: a7300da 2934d06
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jul 17 12:30:48 2023 +0200
+
+    Merge pull request #1594 from johnDeSilencio/bugfix/proc-macro2-cargo-update
+    
+    fix: building rustlings on nightly
+
+[33mcommit 2934d062a30be177056fcded950bd5339b636b8f[m
+Author: Nicholas R. Smith <nicholas_smith@selinc.com>
+Date:   Fri Jul 14 10:47:42 2023 -0700
+
+    fix: run cargo update to build proc-macro2 on nightly
+
+[33mcommit 37cdea9183796909057d8b42ab2866fde1525a40[m
+Merge: 0ab781c a7300da
+Author: Will Hack <18036720+willhack@users.noreply.github.com>
+Date:   Tue Jul 4 12:05:19 2023 -0400
+
+    Merge branch 'main' into chore/update-hints
+
+[33mcommit a7300da78dfd46a682a2f4960d31dfaa14ce8b84[m
+Merge: 6cc34fa 176fb7c
+Author: liv <mokou@fastmail.com>
+Date:   Tue Jul 4 11:57:39 2023 +0200
+
+    Merge pull request #1590 from rust-lang/all-contributors/add-jrcarl624
+    
+    docs: add jrcarl624 as a contributor for content
+
+[33mcommit 176fb7c447e9310c5c5ccc511ee8f61ad14adc9b[m[33m ([m[1;31morigin/all-contributors/add-jrcarl624[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jul 4 09:57:31 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 0e0c5dfe99b99b7723ea9ec77733214c69b2a8ae[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue Jul 4 09:57:30 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 6cc34fa1f7d9cebffcf9cb0d19023e1b890213d7[m
+Merge: c5b0627 2871726
+Author: liv <mokou@fastmail.com>
+Date:   Tue Jul 4 11:57:11 2023 +0200
+
+    Merge pull request #1588 from jrcarl624/main
+    
+    added if3 based on: `Using if in a let Statement`
+
+[33mcommit 287172698aea106723682542e011b64f3d6d218a[m
+Author: Joshua Carlson <jrcarl624@gmail.com>
+Date:   Mon Jul 3 14:52:13 2023 -0400
+
+    added if3 based on: `Using if in a let Statement`
+
+[33mcommit 0ab781c7a7e5240f86033a5c9d242ef5aca391aa[m
+Author: Will Hack <18036720+willhack@users.noreply.github.com>
+Date:   Mon Jul 3 14:20:38 2023 -0400
+
+    chore: remove line reference from strings2 hint
+
+[33mcommit c5b0627180ae98c41f67e345b2a16ca14a6cffd1[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Jul 3 18:50:50 2023 +0200
+
+    chore: update oranda config for 0.1.0
+
+[33mcommit b99c7b8c37b7f95d450ad3fa5461a9398c0f7819[m
+Author: Will Hack <18036720+willhack@users.noreply.github.com>
+Date:   Sun Jul 2 13:46:59 2023 -0400
+
+    chore: update line reference in strings2 hint
+
+[33mcommit a6b562b8e425e364c42ac921fa5b1384d31c2fec[m
+Merge: a470500 a46d42f
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 26 15:20:06 2023 +0200
+
+    Merge pull request #1580 from rust-lang/all-contributors/add-vnprc
+    
+    docs: add vnprc as a contributor for content
+
+[33mcommit a46d42f45e7052fbadb457cd303ff62f5a641555[m[33m ([m[1;31morigin/all-contributors/add-vnprc[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 26 13:19:53 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 47b3a531325932a0051b0dba91c3a8fd86aa2fe1[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 26 13:19:52 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit a470500a434f0bfde4c486961da08b539df100e9[m
+Merge: 2584ff0 405b32e
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 26 15:19:37 2023 +0200
+
+    Merge pull request #1579 from vnprc/docs
+    
+    chore: use correct line number in strings2.rs hint
+
+[33mcommit 405b32e77a6643f08e5bc895d6d2d1e684d47324[m
+Author: vnprc <9425366+vnprc@users.noreply.github.com>
+Date:   Mon Jun 26 09:17:39 2023 -0400
+
+    chore: use correct line number in strings2.rs hint
+
+[33mcommit 2584ff0440b268e2313565244c55d0546ad0f500[m
+Merge: 9379d06 2e4022d
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 26 09:58:32 2023 +0200
+
+    Merge pull request #1577 from rust-lang/all-contributors/add-novanish
+    
+    docs: add novanish as a contributor for content
+
+[33mcommit 2e4022dd730869c9065f8b9f1aa031cbb0b2f0fa[m[33m ([m[1;31morigin/all-contributors/add-novanish[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 26 07:58:24 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit f03a915c750a47cfbabb13413e200d82f0e45405[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 26 07:58:23 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 9379d062757d8df9cdaf9ee0ea1fda73a4928f24[m
+Merge: adc7ca5 eacf7db
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 26 09:58:08 2023 +0200
+
+    Merge pull request #1573 from novanish/refactor-error-1-comment
+    
+    refactor: Update comment to use correct construct name 'Result' inste…
+
+[33mcommit eacf7db6f34f7c884b2a736a35fa997299b34485[m
+Author: Anish <98446102+novanish@users.noreply.github.com>
+Date:   Fri Jun 23 17:18:17 2023 +0545
+
+    refactor: Update comment to use correct construct name 'Result' instead of 'Option'
+    
+    Refactor the comment in the code to provide a more accurate description of the construct being used. Replace the mention of Option with Result.
+
+[33mcommit adc7ca56901ed1f53659fb8fa139a65423affd13[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Thu Jun 22 10:10:44 2023 +0200
+
+    fix(move_semantics2): change type back to compile
+
+[33mcommit c5231f0ce34092a8e92ee0e2eac157f9e0655e33[m
+Author: Mohammed Sadiq <sadiq@sadiqpk.org>
+Date:   Fri Jun 16 13:50:54 2023 +0530
+
+    fix(enums3): modify message string in test
+    
+    Otherwise it won't actually test the change of state.message and
+    it would fail to check if the user missed changing state.message
+    
+    This happened to me as I had a catch-all line in `match`
+
+[33mcommit c2264cabae976cf534be08942ff33f3a58f8795e[m
+Author: liv <mokou@fastmail.com>
+Date:   Thu Jun 15 10:56:53 2023 +0200
+
+    fix: install into $home on windows for now
+    
+    Stopgap measure so that people stop installing into System32 (since that's the default Powershell elevated prompt directory for some reason).
+
+[33mcommit f3d0ba2f51b292dc308aabe4c2240eb8ed9a6f63[m
+Merge: 4b9e77d 0cb63cd
+Author: liv <mokou@fastmail.com>
+Date:   Thu Jun 15 10:42:10 2023 +0200
+
+    Merge pull request #1563 from rust-lang/all-contributors/add-tajo48
+    
+    docs: add tajo48 as a contributor for content
+
+[33mcommit 0cb63cdd01d133a1244ff18db448591fb3a40cd6[m[33m ([m[1;31morigin/all-contributors/add-tajo48[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Thu Jun 15 08:42:02 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit c236a80a37c46cc59d5fc6ba619a23229c9f816c[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Thu Jun 15 08:42:01 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 4b9e77d2efb788a7eca49ea5d7593b1a725bd828[m
+Merge: 0282da6 e1704a2
+Author: liv <mokou@fastmail.com>
+Date:   Thu Jun 15 10:41:46 2023 +0200
+
+    Merge pull request #1562 from tajo48/main
+    
+    chore: update hint for vecs2
+
+[33mcommit e1704a2f1bd2e1c92e0741d656228fe6ccf36a35[m
+Merge: 1e02f19 0282da6
+Author: tajo48 <55502906+tajo48@users.noreply.github.com>
+Date:   Thu Jun 15 00:46:45 2023 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 0282da6881c0708b5aaf6a01e731b88b61201f71[m
+Merge: 132d5ca 846e68e
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:39:41 2023 +0200
+
+    Merge pull request #1559 from rust-lang/all-contributors/add-robertefry
+    
+    docs: add robertefry as a contributor for content
+
+[33mcommit 846e68e1aa601826e18f9e5e7b0fbf3fd0afd3e1[m[33m ([m[1;31morigin/all-contributors/add-robertefry[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:39:27 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 33cf4f7eca5b309996cee25bced7dc76936f09b8[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:39:26 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 132d5ca943f9a6f3977207ad4e4611502814b1fc[m
+Merge: 4cfcf2c b44472b
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:39:09 2023 +0200
+
+    Merge pull request #1535 from robertefry/comment_cleanup
+    
+    docs: cleanup the explanation paragraphs at the start of each exercise.
+
+[33mcommit b44472b2372ef29f6c7053d0f8e87479fd02c52d[m
+Merge: 7eef5d1 4cfcf2c
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:39:02 2023 +0200
+
+    Merge branch 'main' into comment_cleanup
+
+[33mcommit 4cfcf2ccd783fe3b7b28a3cae878d56ae3334b69[m
+Merge: 06ddcfb a2f99ad
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:36:40 2023 +0200
+
+    Merge pull request #1558 from rust-lang/all-contributors/add-Frosthage
+    
+    docs: add Frosthage as a contributor for content
+
+[33mcommit a2f99ad00db939e63b8bdbbfbb9948a737fe0f5c[m[33m ([m[1;31morigin/all-contributors/add-Frosthage[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:36:23 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit eb3c9658b166eb6aae1d05ea89d0863a554663b4[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:36:22 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 06ddcfb0bb755a3efd099386503ee7f15cca1eb2[m
+Merge: d6bb854 5ff23a2
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:36:06 2023 +0200
+
+    Merge pull request #1113 from Frosthage/main
+    
+    Improve hint for as_ref_mut
+
+[33mcommit d6bb8547b387ba7843cf93cb462d416ec89413c5[m
+Merge: 44f706a 5219621
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:33:53 2023 +0200
+
+    Merge pull request #1557 from rust-lang/all-contributors/add-luhem7
+    
+    docs: add luhem7 as a contributor for content
+
+[33mcommit 521962159592adc2031fc5ff513ce6385bb72a45[m[33m ([m[1;31morigin/all-contributors/add-luhem7[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:33:45 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit a14f0c3f55ce326a6dfe5b7ed63cb0052985d1c4[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:33:44 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 44f706a5e70399ec372bf68245570b243a3c2d34[m
+Merge: 55636e6 a96bbcd
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:33:29 2023 +0200
+
+    Merge pull request #1542 from luhem7/main
+    
+    fix(threads, smart pointers): Swap order of threads and smart pointers exercises
+
+[33mcommit 55636e6978a8762d2a858ee649a42e5089a46ea3[m
+Merge: c6c7dd2 5921948
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:33:01 2023 +0200
+
+    Merge pull request #1556 from rust-lang/all-contributors/add-FWDekker
+    
+    docs: add FWDekker as a contributor for content
+
+[33mcommit 5921948de8cd15e20e5812c0d1712ec4fc3e8127[m[33m ([m[1;31morigin/all-contributors/add-FWDekker[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:32:26 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit bd05bab4bfb14a7ef65424cdcd7af8f20d4a3dd1[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:32:25 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit c6c7dd2fce8dec7804b0df1c6fe3a1f60ffbaf04[m
+Merge: 171d20c 479574e
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:32:10 2023 +0200
+
+    Merge pull request #1544 from FWDekker/main
+    
+    fix(vecs): rename outdated variable name in hint
+
+[33mcommit 171d20ce3ed6f2d1ec1075c63777b2511fa4f5cd[m
+Merge: c2bb9eb bbfb4c7
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:20:36 2023 +0200
+
+    Merge pull request #1546 from b-apperlo/b-apperlo-patch-1
+    
+    feat: added test function to hashmaps2.rs
+
+[33mcommit c2bb9ebd8e8713889ba092f831176e58c8060054[m
+Merge: 974717c d35a352
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:19:02 2023 +0200
+
+    Merge pull request #1555 from rust-lang/all-contributors/add-b-apperlo
+    
+    docs: add b-apperlo as a contributor for content
+
+[33mcommit d35a352fe6f252217c65560e3c1addcd23e9a7f0[m[33m ([m[1;31morigin/all-contributors/add-b-apperlo[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:18:55 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 4fd52390eec5e16b24cf26c1efaa961d4f0a365e[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:18:54 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 974717ca11137cda184c1362fd67b283fed6a63c[m
+Merge: d77e6c0 a4fe360
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:18:36 2023 +0200
+
+    Merge pull request #1547 from b-apperlo/b-apperlo-patch-2
+    
+    fix: update hashmaps3.rs
+
+[33mcommit d77e6c0d050c7fc21b67c507a81876be85c642a4[m
+Merge: 0d2a1bd 47fcab1
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:17:30 2023 +0200
+
+    Merge pull request #1553 from rust-lang/all-contributors/add-IVIURRAY
+    
+    docs: add IVIURRAY as a contributor for content
+
+[33mcommit 47fcab1e603e7147e68bdf03b110f8799f2d5460[m[33m ([m[1;31morigin/all-contributors/add-IVIURRAY[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:17:22 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit a1188ca0eea0e1a61217812bde3b085a7de998b5[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 10:17:21 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 0d2a1bdef1dfc3be14c4484574f7f5aaf02e17da[m
+Merge: 369ae2e d0a1783
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 12:17:07 2023 +0200
+
+    Merge pull request #1549 from IVIURRAY/enums3-message-test
+    
+    fix(enums3): add test for message
+
+[33mcommit 369ae2e63d06de6fee36aeebfd1ff3e8bcdfa25a[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon Jun 12 12:07:18 2023 +0200
+
+    feat(move_semantics2): rewrite hint
+
+[33mcommit 1ce9d93e94231d20d3cc0b4d4c4498a0a077e494[m
+Merge: dca6e86 e0ea03d
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 11:50:10 2023 +0200
+
+    Merge pull request #1552 from rust-lang/all-contributors/add-proofconstruction
+    
+    docs: add proofconstruction as a contributor for infra
+
+[33mcommit e0ea03dc567cd29c08012aa2da818c6f5599ab3b[m[33m ([m[1;31morigin/all-contributors/add-proofconstruction[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 09:50:03 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 3cced07c1324a1d4e0b2f2e1e585cc1964d2bde3[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Mon Jun 12 09:50:02 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit dca6e869df2bb23b934e42757dbe61e2846c6688[m
+Merge: 30291a3 f30f0bf
+Author: liv <mokou@fastmail.com>
+Date:   Mon Jun 12 11:49:21 2023 +0200
+
+    Merge pull request #1550 from proofconstruction/check-lockfile-sync
+    
+    chore(ci): add action step to check if lockfile is synced
+
+[33mcommit f30f0bf148eab8b1a11fa7ee36f230e94aea417a[m
+Author: alex <source@proof.construction>
+Date:   Sun Jun 11 16:30:01 2023 -0500
+
+    chore(ci): add action step to check if lockfile is synced
+
+[33mcommit d0a17830831121fcdbc27a1833ccbbc17bc0c02d[m
+Author: IVIURARY <haydn.murray1@yahoo.co.uk>
+Date:   Thu Jun 8 22:14:25 2023 +0100
+
+    fix(enums3): add test for message
+    
+    closes #1548
+
+[33mcommit a4fe3602b238f38e9fd245874c863852791129fb[m
+Author: Bert Apperlo <91734527+b-apperlo@users.noreply.github.com>
+Date:   Thu Jun 8 16:46:45 2023 +0200
+
+    fix: updated comment for struct
+
+[33mcommit 8974e33f697abf55d322b7de051e8b41c219523d[m
+Author: Bert Apperlo <91734527+b-apperlo@users.noreply.github.com>
+Date:   Thu Jun 8 16:44:39 2023 +0200
+
+    fix: update hashmaps3.rs
+
+[33mcommit bbfb4c7e63dc59a4e8afbb8d2a10b35414782256[m
+Author: Bert Apperlo <91734527+b-apperlo@users.noreply.github.com>
+Date:   Thu Jun 8 15:49:07 2023 +0200
+
+    feat: added test function to hashmaps2.rs
+    
+    The existing test functions only check if a kind of fruit exists in the hashmap, but not if the amount of fruits is higher than zero. This new test function solves this.
+
+[33mcommit 479574e88eef4a4299b005388bec74f07a9c57d5[m
+Author: Florine W. Dekker <florine@fwdekker.com>
+Date:   Wed Jun 7 16:58:02 2023 +0200
+
+    fix(vecs): rename outdated variable name in hint
+
+[33mcommit a96bbcd9675933b19454d627ab6291d4739f0e53[m
+Author: luhem7 <mehul.gang@gmail.com>
+Date:   Sat Jun 3 10:20:29 2023 -0400
+
+    fix(threads, smart pointers): Swap order of threads and smart pointers exercises
+    
+    closes #1541
+
+[33mcommit 1e02f194fdd1cb1ca99cf1d93d11455db8b1bce6[m
+Author: tajo48 <woj161626@gmail.com>
+Date:   Wed May 31 16:37:41 2023 +0200
+
+    update hint for vecs2 to match with exercise as it was updated to fix clarity
+
+[33mcommit 7eef5d15eef780f93e22b1b4e0185f7708219ea0[m
+Author: Robert Fry <inbox@robertfry.xyz>
+Date:   Mon May 29 18:39:08 2023 +0100
+
+    docs: cleanup the explanation paragraphs at the start of each exercise.
+
+[33mcommit 30291a3c253f08a4191cfd544ba36867612ebb7a[m
+Merge: 10d8357 3322437
+Author: liv <mokou@fastmail.com>
+Date:   Tue May 23 11:06:10 2023 +0200
+
+    Merge pull request #1527 from rust-lang/all-contributors/add-lazywalker
+    
+    docs: add lazywalker as a contributor for content
+
+[33mcommit 33224370eb98da79a2a0b1d6a470cfa6edab83f2[m[33m ([m[1;31morigin/all-contributors/add-lazywalker[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue May 23 09:05:59 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit b9cb9311672babb938127385a102a645d86e4cac[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue May 23 09:05:58 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 10d8357876fe1f6236b88ac652855acbfe126f5b[m
+Merge: e35a84f 9604ab6
+Author: liv <mokou@fastmail.com>
+Date:   Tue May 23 11:05:43 2023 +0200
+
+    Merge pull request #1526 from lazywalker/fix-iterators5
+    
+    fix(exercises): use snake_case variables to avoid warning
+
+[33mcommit 9604ab66218a83710e0da1152ec75b5574f051a8[m
+Author: lazywalker <lazywalkerz@gmail.com>
+Date:   Tue May 23 15:00:55 2023 +0800
+
+    fix(exercises): use snake_case variables
+
+[33mcommit e35a84fcb3f448aa3c455fab8c3a6a13fd47e606[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Mon May 22 11:09:57 2023 +0200
+
+    chore(oranda): don't generate changelog pages
+
+[33mcommit e910205c19d18f51d71044ebb34eb9fe6fa27866[m
+Merge: 59344c6 15ad02c
+Author: liv <mokou@fastmail.com>
+Date:   Sun May 21 11:39:36 2023 +0200
+
+    Merge pull request #1524 from rust-lang/all-contributors/add-b1ue64
+    
+    docs: add b1ue64 as a contributor for content
+
+[33mcommit 15ad02c984ef355a451189b2708b93112afc1840[m[33m ([m[1;31morigin/all-contributors/add-b1ue64[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sun May 21 09:39:26 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 8e62346f8625965f1dac9603f3297e726670b3d3[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Sun May 21 09:39:25 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 59344c679dc172f7dca46de7dc671a435f2aa8a5[m
+Merge: f2de12a a7257a1
+Author: liv <mokou@fastmail.com>
+Date:   Sun May 21 11:39:12 2023 +0200
+
+    Merge pull request #1523 from b1ue64/b1ue64-patch-1
+    
+    feat(iterators5): remove outdated part of hint
+
+[33mcommit a7257a1d1ef59642f692e2638085ec00a6f2f391[m
+Author: b1ue64 <77976308+b1ue64@users.noreply.github.com>
+Date:   Sat May 20 16:38:33 2023 -0400
+
+    feat(iterators5): remove outdated part of hint
+
+[33mcommit f2de12aa3443af2e989a045d9035294184d36eee[m[33m ([m[1;33mtag: 5.5.1[m[33m)[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 21:05:51 2023 +0200
+
+    release: 5.5.1
+
+[33mcommit 2d544f18b53102a11bc80be4e986c7f52f5262de[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 21:04:32 2023 +0200
+
+    fix: revert back to using relative paths
+
+[33mcommit 0667ee7c4d2af44c98aff8db96887ddf40055c49[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 17:11:49 2023 +0200
+
+    fix: add oranda-hide class to readme
+
+[33mcommit 19cee732094c59669f29ce941ad87f5a90af6bf8[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 16:56:01 2023 +0200
+
+    chore: set up oranda
+    
+    Sets up oranda so we can get nice website things for free. Some caveats we have right now:
+    
+    - Absolutely manual, I have to do `oranda build` and the deploy manually right now
+    - I had to pop the Readme into a new Markdown file because the first header in there was looking very strange
+
+[33mcommit 4c638e365f4de4f34b6ca3408daa08d5c6688b68[m[33m ([m[1;33mtag: 5.5.0[m[33m)[m
+Merge: f452fd7 6d1f8c5
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 16:30:31 2023 +0200
+
+    Merge branch 'main' of github.com:rust-lang/rustlings
+
+[33mcommit f452fd7bb0118d8e56848ec9e3f5e6e733be6316[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 16:30:22 2023 +0200
+
+    release: 5.5.0
+
+[33mcommit 6d1f8c5111bbfb58c6443e3776676be70e6a1b3e[m
+Merge: 656140d ab61a0d
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 16:14:54 2023 +0200
+
+    Merge pull request #1520 from rust-lang/all-contributors/add-Ben2917
+    
+    docs: add Ben2917 as a contributor for content
+
+[33mcommit ab61a0d5c7efb8cc4856587f5354fb2f9024a40a[m[33m ([m[1;31morigin/all-contributors/add-Ben2917[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 14:14:44 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit af52fce275ba26b653026fffc5c09a73c7ba5846[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 14:14:43 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 656140d9e64298a4f9f9e2c0944bfa1435a84c17[m
+Merge: 9508e97 a6f9964
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 16:14:29 2023 +0200
+
+    Merge pull request #1478 from Ben2917/improved_tests_for_iterators5
+    
+    fix: Added some extra tests to validate iterators5 solution
+
+[33mcommit 9508e9791495f6e6f4c64b330a6cbba37241fafc[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 16:14:10 2023 +0200
+
+    feat: write absolute root module paths for lsp
+
+[33mcommit a6f99645c6cb1b5493e1fbf16576ab5c0f1dd88c[m
+Author: liv <shadows_withal@fastmail.com>
+Date:   Wed May 17 16:02:39 2023 +0200
+
+    chore: rustfmt
+
+[33mcommit fd84c2d8f7446dc63ee519b180ddbe43eb93d23d[m
+Merge: 81cd979 eeb439e
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:57:26 2023 +0200
+
+    Merge pull request #1519 from rust-lang/all-contributors/add-lionel-rowe
+    
+    docs: add lionel-rowe as a contributor for content
+
+[33mcommit eeb439eaf9e164307dd2533d5ef082f740f53af3[m[33m ([m[1;31morigin/all-contributors/add-lionel-rowe[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:57:11 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 58cbdd71b64ad8d32d192e56cedd563ebca6fd5b[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:57:10 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 81cd97902ad4801abc30b3fe4f1b19257152de7b[m
+Merge: ccf4a78 8361342
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:56:55 2023 +0200
+
+    Merge pull request #1487 from lionel-rowe/patch-1
+    
+    feat(options2): better test for layered_option
+
+[33mcommit ccf4a78f5d17c61dc7cf1f3da6c070377169de3e[m
+Merge: 05fcc24 6abff39
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:56:10 2023 +0200
+
+    Merge pull request #1518 from rust-lang/all-contributors/add-deedy5
+    
+    docs: add deedy5 as a contributor for content
+
+[33mcommit 6abff3954921aba490b9f135c701ccb5f26595c5[m[33m ([m[1;31morigin/all-contributors/add-deedy5[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:55:29 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 94c6131c59456c70302ee5c3d39114786533daf4[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:55:28 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 05fcc246ae0af61e51a90ff79445856ce97ff81b[m
+Merge: 9bfb705 e2da663
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:55:13 2023 +0200
+
+    Merge pull request #1490 from deedy5/main
+    
+    modules2.rs: add more information to hint
+
+[33mcommit 9bfb7055e2da297f6e16896d5e8ae7d2487f8bc9[m
+Merge: b076801 c5fe420
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:54:49 2023 +0200
+
+    Merge pull request #1517 from rust-lang/all-contributors/add-rb5014
+    
+    docs: add rb5014 as a contributor for content
+
+[33mcommit c5fe42089d5fe6a15f1e1a18f1a4f8d612f2d3c0[m[33m ([m[1;31morigin/all-contributors/add-rb5014[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:54:40 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 70cf7698acbde43025a23d0199057485d8d75ade[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 17 13:54:39 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit b07680108ba27683a2b515c50dbe1db28b94f6bb[m
+Merge: d45ec21 c44e302
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 17 15:54:24 2023 +0200
+
+    Merge pull request #1504 from rb5014/success-hints-feature
+    
+    feat(main, verify): Show hint(s) after exercise completion
+
+[33mcommit d45ec21b3c955785157cf12921cd987c864b0d94[m
+Merge: b882da1 0d25263
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 10 10:50:01 2023 +0200
+
+    Merge pull request #1513 from rust-lang/all-contributors/add-nmay231
+    
+    docs: add nmay231 as a contributor for content
+
+[33mcommit 0d252636be6675e24475d821a953cdaf5f1e0f45[m[33m ([m[1;31morigin/all-contributors/add-nmay231[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 10 08:49:45 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit 70da26f649adcb7ea583db36a07bc8f285f3f5c3[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Wed May 10 08:49:44 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit b882da1ad43ffb4997e3bfc7e227d07f24fcaa08[m
+Merge: 9ffcab0 3ecb47f
+Author: liv <mokou@fastmail.com>
+Date:   Wed May 10 10:49:36 2023 +0200
+
+    Merge pull request #1512 from nmay231/main
+    
+    fix(options3): panic when not matching to avoid false positives
+
+[33mcommit 3ecb47ff2cf7e5b6b6aa115fba02228896654b60[m
+Author: Noah May <noahmouse2011@gmail.com>
+Date:   Tue May 9 15:13:18 2023 -0500
+
+    fix(options3): panic when not matching to avoid false positives
+    
+    Closes #1503
+
+[33mcommit c44e3025f9a5af4b4a7999edddd76b7f7863328a[m
+Author: Romain Bayle <5014@holbertonstudents.com>
+Date:   Tue May 2 22:46:41 2023 +0200
+
+    option success_hints added to the struct Watchargs instead of Args
+
+[33mcommit 9ffcab07bff9f97fcf907030f1af3635a411cd1e[m
+Merge: 9a6e57e 583925c
+Author: liv <mokou@fastmail.com>
+Date:   Tue May 2 11:15:57 2023 +0000
+
+    Merge pull request #1506 from rust-lang/all-contributors/add-az0977776
+    
+    docs: add az0977776 as a contributor for content
+
+[33mcommit 583925c085308645504b30a323d66b8edf6f798a[m[33m ([m[1;31morigin/all-contributors/add-az0977776[m[33m)[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue May 2 11:15:49 2023 +0000
+
+    docs: update .all-contributorsrc [skip ci]
+
+[33mcommit e631f3c78bf3f09955353778c8aa377085653d7a[m
+Author: allcontributors[bot] <46447321+allcontributors[bot]@users.noreply.github.com>
+Date:   Tue May 2 11:15:48 2023 +0000
+
+    docs: update AUTHORS.md [skip ci]
+
+[33mcommit 9a6e57eec9a9584d9fd9e0b14eea241373aee33a[m
+Merge: b75d2aa d3fea5f
+Author: liv <mokou@fastmail.com>
+Date:   Tue May 2 11:15:33 2023 +0000
+
+    Merge pull request #1471 from az0977776/patch-2
+    
+    docs: update line numbers in move_semantics2
+
+[33mcommit d3fea5f15a106b024f0b4b4d71fce91843e7ed51[m
+Merge: 8ed2cf7 b75d2aa
+Author: Aaron Wang <az0977776@yahoo.com>
+Date:   Mon May 1 19:10:56 2023 -0400
+
+    Merge branch 'main' into patch-2
+
+[33mcommit 5d3696a9e6bc6251f0c03d17d0d6a7a10ee09115[m
+Author: Romain Bayle <5014@holbertonstudents.com>
+Date:   Mon May 1 02:49:19 2023 +0200
+
+    feat(cli): added success-hints option for the rustlings command
+    closes #1373
+
+[33mcommit b75d2aa3f4e6c80668261fbcc6ac287e61029ca0[m
+Merge: 6ae0525 eb4079c
+Author: liv <mokou@fastmail.com>
+Date:   Fri Apr 28 08:40:25 2023 +0000
+
+    Merge pull request #1499 from rust-lang/all-contributors/add-esotuvaka
+    
+    docs: add esotuvaka as a contributor for content
